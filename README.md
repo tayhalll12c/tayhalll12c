@@ -1,10 +1,9 @@
 <h1>Hey there, I'm Taylor! <a href="https://linkedin.com>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/tayhalll12c/osTicket-Prereqs)
-  
   - [osTicket: Post-Installation Configuration](https://github.com/tayhalll12c/osTicketPostInstall)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tayhalll12c/osTicketExamples)
 - <b>Microsoft Azure</b>
